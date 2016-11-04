@@ -65,4 +65,4 @@ JsFormat（它其实用的是jsbeautifier），CSScomb两个格式化的插件�
 PHP代码规范
 更新中...
 
-[### 团队成员技能要求](https://github.com/W3cshool/IT-Team/blob/master/%E9%80%9A%E7%94%A8%E6%8A%80%E8%83%BD.md)
+[### 团队成员技能要求](https://github.com/muwubbq/IT-Team/blob/master/%E9%80%9A%E7%94%A8%E6%8A%80%E8%83%BD.md)
