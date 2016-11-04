@@ -1,7 +1,7 @@
 # IT-Team
 
 #### 导语：
-> 正君餐饮总部IT部门项目版本控制说明，由团队成员更新和维护.
+> 正君餐饮总公司IT部项目版本控制说明，由团队成员更新和维护.
 [千里之行，始于足下。]
 [我们的征途是星辰大海。]
 
@@ -9,7 +9,7 @@
 
 - 官网[Website](https://github.com/W3cshool/Website)
 
-- 巡店[Inspection](https://github.com/W3cshool/Inspection)
+- 巡店[inspection](https://github.com/muwubbq/inspection)
 
 - 微信工单[WeChat_work_order](https://github.com/W3cshool/WeChat_work_order)
 
