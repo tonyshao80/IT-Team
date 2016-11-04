@@ -5,13 +5,17 @@
 [千里之行，始于足下。]
 [我们的征途是星辰大海。]
 
+## 团队沟通工具
+- [倍洽bearychat](https://muwuit.bearychat.com)
+- 看板工具[Trello](https://trello.com/itteam461) 
+
 ## 已经开发完并正在维护的项目
 
 - 官网[Website](https://github.com/muwubbq/Website)
 
 - 巡店[inspection](https://github.com/muwubbq/inspection)
 
-- 微信工单[WeChat_work_order](https://github.com/W3cshool/WeChat_work_order)
+- 微信工单[WeChatGD](https://github.com/muwubbq/WeChatGD)
 
 ...
 
