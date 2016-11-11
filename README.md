@@ -7,21 +7,21 @@
 
 ## 团队沟通工具
 - [倍洽bearychat](https://muwuit.bearychat.com)
-- 看板工具[Trello](https://trello.com/itteam461) 
 
-## 已经开发完并正在维护的项目
+- [看板工具Trello](https://trello.com/itteam461)
 
-- 官网[Website](https://github.com/muwubbq/Website)
+- [ProcessOn在线作图](http://www.processon.com)
 
-- 巡店[inspection](https://github.com/muwubbq/inspection)
+## 已开发完并正在维护的项目
 
-- 微信工单[WeChatGD](https://github.com/muwubbq/WeChatGD)
-
+[木屋烧烤](https://github.com/muwubbq)
 ...
 
 ## 经过多长时间测试，团队前端使用或者参考以下框架，统一一种切忌多种。
 - [zui跨屏前端框架](https://github.com/easysoft/zui)
+
 - 针对微信网页开发则使用[WeUI](https://github.com/weui/weui)或者是[阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+
 - CSS解决方案可以参考[网易的NEC](http://nec.netease.com/)
 
 欢迎Stars，或者Fork方便查阅。
