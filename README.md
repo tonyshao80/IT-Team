@@ -16,6 +16,7 @@
 
 [木屋烧烤](https://github.com/muwubbq)
 ...
+开发项目很多都是基于微信开发平台，[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)这里能帮助你。
 
 ## 经过多长时间测试，团队前端使用或者参考以下框架，统一一种切忌多种。
 - [zui跨屏前端框架](https://github.com/easysoft/zui)
