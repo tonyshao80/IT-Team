@@ -20,56 +20,46 @@
 
 ## 移动端UI库以下仅参考
 
-1. 微信网页开发则使用[WeUI](https://github.com/weui/weui)
+1. [微信开发WeUI](https://github.com/weui/weui)
 
-2. Web app[阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+2. [阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
 
-3. CSS解决方案可以参考[网易的NEC](http://nec.netease.com/)
+3. [网易的NEC（CSS解决方案）](http://nec.netease.com/)
+
 
 ## 库/框架
-1. angular.js（谷歌推出的MVVM框架）
+1. [angular.js](http://angularjs.org)（谷歌推出的MVVM框架）
 
-2. react （facebook推出的创建用户接口的JavaScript库）
+2. [react](https://facebook.github.io/react/) （facebook推出的创建用户接口的JavaScript库）
 
-3. vue
+3. [vue](http://vuejs.org/)
 
-4. backbone
+4. [backbone](http://backbonejs.org/)
  
-5. node.js
+5. [node.js](https://nodejs.org/en/)
 
 ...
 
 ## 构建工具
-1. gulp
+1. [gulp](http://gulpjs.com/)
 
-2. grunt
+2. [grunt](http://gruntjs.com/)
 
-3. yeoman
+3. [yeoman](http://yeoman.io/)
 
-4. webpack
-
-5. yeoman 
-...
-
-## 模块加载
-1. requirejs
-
-2. seajs
-
-3. systemjs
-
-4. rollup
+4. [webpack](https://webpack.github.io/)
 
 ...
 
 ## 包管理器
-1. yarn
+1. [yarn](https://yarnpkg.com/)
 
-2. bower
+2. [bower](https://bower.io/)
 
-3. npm
+3. [npm](https://www.npmjs.com/)
 
-4. node-browserify
+4. [node-browserify](http://browserify.org/)
+
 ...
   
 
