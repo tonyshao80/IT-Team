@@ -1,44 +1,83 @@
 # IT-Team
 
-#### 导语：
-> 正君餐饮总公司IT部项目版本控制说明，由团队成员更新和维护.
-[千里之行，始于足下。]
-[我们的征途是星辰大海。]
+#### 前言：
+> 正君餐饮总公司IT部项目版本控制说明，由团队成员更新和维护。
 
-## 团队沟通工具
-- [倍洽bearychat](https://muwuit.bearychat.com)
+## 团队协作工具
+- [倍洽bearychat](https://muwuit.bearychat.com)（沟通）
 
-- [看板工具Trello](https://trello.com/itteam461)
+- [看板工具Trello](https://trello.com/itteam461)（项目进度，需求）
 
-- [ProcessOn在线作图](http://www.processon.com)
+- [ProcessOn在线作图](http://www.processon.com)（流程图，逻辑图）
+
+- IDE与编辑器，选一个自己顺手的就行，尽量统一。（sublime text居多。）
 
 ## 已开发完并正在维护的项目
 
-[木屋烧烤](https://github.com/muwubbq)
+# [木屋烧烤](https://github.com/muwubbq)
+
+开发项目很多都是基于微信开发平台，[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)这个能帮助你。
+
+## 移动端UI库以下仅参考
+
+1. 微信网页开发则使用[WeUI](https://github.com/weui/weui)
+
+2. Web app[阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+
+3. CSS解决方案可以参考[网易的NEC](http://nec.netease.com/)
+
+## 库/框架
+1. angular.js（谷歌推出的MVVM框架）
+
+2. react （facebook推出的创建用户接口的JavaScript库）
+
+3. vue
+
+4. backbone
+ 
+5. node.js
+
 ...
-开发项目很多都是基于微信开发平台，[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)这里能帮助你。
 
-## 经过多长时间测试，团队前端使用或者参考以下框架，统一一种切忌多种。
-- [zui跨屏前端框架](https://github.com/easysoft/zui)
+## 构建工具
+1. gulp
 
-- 针对微信网页开发则使用[WeUI](https://github.com/weui/weui)或者是[阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+2. grunt
 
-- CSS解决方案可以参考[网易的NEC](http://nec.netease.com/)
+3. yeoman
 
-欢迎Stars，或者Fork方便查阅。
+4. webpack
+
+5. yeoman 
+...
+
+## 模块加载
+1. requirejs
+
+2. seajs
+
+3. systemjs
+
+4. rollup
+
+...
+
+## 包管理器
+1. yarn
+
+2. bower
+
+3. npm
+
+4. node-browserify
+...
+  
 
 ### 前端代码规范
 
 前端部分严格按照[腾讯 AlloyTeam团队](http://alloyteam.github.io/CodeGuide/)
 前端框架不限制，但是一定要简洁，简约，易维护性为出发点。
 避免代码混乱，冗余。
-
-框架选择：
-选择框架要从两面看，一是框架的本领，二是看自己团队的能耐。
-- Bootstrap (较适合企业站、产品站.)
-- H-ui (国产框架，针对国人环境)
-- uikit (听说很轻)
-不多列了，框架那么多，尽量多尝试吧。
 
 ## 团队成员要求
 
