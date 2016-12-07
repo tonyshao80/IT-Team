@@ -1,7 +1,11 @@
 # IT-Team
 
-#### 前言：
+# 前言：
 > 正君餐饮总公司IT部项目版本控制说明，由团队成员更新和维护。
+
+# 概述
+> 针对某个平台开发产品请选择对应平台UI，如微信公众号或者小程序开发则选择[WeUI](https://github.com/weui/weui)。[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)
+，钉钉则选择[钉钉UI](https://github.com/amazeui/amazeui-dingtalk)。自由，则选择[amazeui](https://github.com/amazeui/amazeui)。
 
 ## 团队协作工具
 - [倍洽bearychat](https://muwuit.bearychat.com)（沟通）
@@ -14,54 +18,32 @@
 
 ## 已开发完并正在维护的项目
 
-# [木屋烧烤](https://github.com/muwubbq)
+## [木屋烧烤](https://github.com/muwubbq)
 
-开发项目很多都是基于微信开发平台，[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)这个能帮助你。
-
-## 移动端UI库以下仅参考
+## 移动端UI库
 
 1. [微信开发WeUI](https://github.com/weui/weui)
 
-2. [阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+2. [钉钉UI](https://github.com/amazeui/amazeui-dingtalk)
 
-3. [网易的NEC（CSS解决方案）](http://nec.netease.com/)
+3. [阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+
+## PC端前端框架
+
+1. [amazeui](https://github.com/amazeui/amazeui)
+
+2. [网易的NEC（CSS解决方案）](http://nec.netease.com/)
 
 
-## 库/框架
-1. [angular.js](http://angularjs.org)（谷歌推出的MVVM框架）
+## 库/框架|构建工具|包管理器
+1. [angular.js](http://angularjs.org)/[react](https://facebook.github.io/react/) /[vue](http://vuejs.org/)/[backbone](http://backbonejs.org/)/[node.js](https://nodejs.org/en/)
 
-2. [react](https://facebook.github.io/react/) （facebook推出的创建用户接口的JavaScript库）
+2. [gulp](http://gulpjs.com/)/[grunt](http://gruntjs.com/)/[yeoman](http://yeoman.io/)/[webpack](https://webpack.github.io/)
 
-3. [vue](http://vuejs.org/)
-
-4. [backbone](http://backbonejs.org/)
- 
-5. [node.js](https://nodejs.org/en/)
-
-...
-
-## 构建工具
-1. [gulp](http://gulpjs.com/)
-
-2. [grunt](http://gruntjs.com/)
-
-3. [yeoman](http://yeoman.io/)
-
-4. [webpack](https://webpack.github.io/)
+3. [yarn](https://yarnpkg.com/)/[bower](https://bower.io/)/[npm](https://www.npmjs.com/) /[node-browserify](http://browserify.org/)
 
 ...
 
-## 包管理器
-1. [yarn](https://yarnpkg.com/)
-
-2. [bower](https://bower.io/)
-
-3. [npm](https://www.npmjs.com/)
-
-4. [node-browserify](http://browserify.org/)
-
-...
-  
 
 ### 前端代码规范
 
