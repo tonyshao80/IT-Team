@@ -4,7 +4,7 @@
 > 正君餐饮总公司IT部项目版本控制说明，由团队成员更新和维护。
 
 # 概述
-> 针对某个平台开发产品请选择对应平台UI，如微信公众号或者小程序开发则选择[WeUI](https://github.com/weui/weui)。[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)
+> 针对某个平台开发产品请选择对应平台UI，如微信公众号或者小程序开发则选择[WeUI](https://github.com/weui/weui)与[微信资源SDK（开发工具等)](https://github.com/muwubbq/WeChat)
 ，钉钉则选择[钉钉UI](https://github.com/amazeui/amazeui-dingtalk)与[DingTalk-SDK](https://github.com/muwubbq/DingTalk)。自由平台，则选择[amazeui](https://github.com/amazeui/amazeui)。配合[amazeui代码片段](https://github.com/amazeui/snippets)开发速度会有一个大大提升，推荐。
 
 ## 团队协作工具
