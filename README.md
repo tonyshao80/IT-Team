@@ -78,3 +78,21 @@ PHP代码规范
 更新中...
 
 [### 团队成员技能要求](https://github.com/muwubbq/IT-Team/blob/master/%E9%80%9A%E7%94%A8%E6%8A%80%E8%83%BD.md)
+
+## 硬性知识储备
+
+### 版本控制
+Git/Github，必会。
+
+1. 设置SSH Key
+检查是否已经有SSH Key。  
+$cd ~/.ssh
+2. 如果没有则生成一个新的SSH。
+$ssh-keygen -t rsa -C "email" 三次回车即可。
+3. 把Key填写入自己Github。
+
+Git与Github是完全不同的，这点要区别。如何不同google之。
+
+（如果访问慢，被墙，你能直接解决掉吧？）。
+
+版本控制熟练之后，技能树请继续参考对应方向。[StuQ 程序员技能图谱](https://github.com/TeamStuQ/skill-map)
