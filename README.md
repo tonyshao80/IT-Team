@@ -5,7 +5,7 @@
 
 # 概述
 > 针对某个平台开发产品请选择对应平台UI，如微信公众号或者小程序开发则选择[WeUI](https://github.com/weui/weui)。[微信资源(SDK,开发工具等)](https://github.com/muwubbq/WeChat)
-，钉钉则选择[钉钉UI](https://github.com/amazeui/amazeui-dingtalk)。自由，则选择[amazeui](https://github.com/amazeui/amazeui)。配合[amazeui代码片段](https://github.com/amazeui/snippets)开发速度会有一个大大提升，推荐。
+，钉钉则选择[钉钉UI](https://github.com/amazeui/amazeui-dingtalk)与[DingTalk-SDK](https://github.com/muwubbq/DingTalk)。自由平台，则选择[amazeui](https://github.com/amazeui/amazeui)。配合[amazeui代码片段](https://github.com/amazeui/snippets)开发速度会有一个大大提升，推荐。
 
 ## 团队协作工具
 - [倍洽bearychat](https://muwuit.bearychat.com)（沟通）
@@ -92,6 +92,8 @@ $ssh-keygen -t rsa -C "email" 三次回车即可。
 3. 把Key填写入自己Github。
 
 Git与Github是完全不同的，这点要区别。如何不同google之。
+
+会设置key仅仅只是开始，还没入门，继续深入[Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)
 
 （如果访问慢，被墙，你能直接解决掉吧？）。
 
