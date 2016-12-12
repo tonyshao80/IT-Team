@@ -81,7 +81,9 @@ PHP代码规范
 [### 团队成员技能要求](https://github.com/muwubbq/IT-Team/blob/master/%E9%80%9A%E7%94%A8%E6%8A%80%E8%83%BD.md)
 
 ## 硬性知识储备
+[知识库传送门](http://www.w3cschool.cn/)
 
+[freecodecamp中文社区---刷技能](https://github.com/FreeCodeCampChina/freecodecamp.cn)
 ### 版本控制
 Git/Github，必会。
 
