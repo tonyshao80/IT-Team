@@ -26,14 +26,15 @@
 
 2. [钉钉UI](https://github.com/amazeui/amazeui-dingtalk)
 
-3. [阿里巴巴UED团队的SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+3. [SUI Mobile | 基于 Framework7 开发的UI库](https://github.com/sdc-alibaba/SUI-Mobile)
+
+4. [MZUI-为移动端设计，基于 Flex 的 UI 框架。](http://zui.sexy/m/)
 
 ## PC端前端框架
 
-1. [amazeui](https://github.com/amazeui/amazeui)
+1. [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](https://github.com/amazeui/amazeui)
 
-2. [网易的NEC（CSS解决方案）](http://nec.netease.com/)
-
+2. [ZUI - 开源HTML5跨屏框架](http://zui.sexy/) 
 
 ## 库/框架|构建工具|包管理器
 1. [angular.js](http://angularjs.org)/[react](https://facebook.github.io/react/) /[vue](http://vuejs.org/)/[backbone](http://backbonejs.org/)/[node.js](https://nodejs.org/en/)
